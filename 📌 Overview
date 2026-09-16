@@ -1,0 +1,6 @@
+This repository contains my Week 2 penetration testing activities for the Networkwalks Cybersecurity Program.
+The focus of this week was Footprinting, Reconnaissance, and Network Scanning using industry‑standard tools and OSINT techniques.
+All testing was performed with authorization on:
+The networkwalks.com domain
+My local LAN (192.168.100.0/24)
+This project demonstrates how early‑stage reconnaissance reveals critical information about domains, DNS infrastructure, technologies, and active hosts.
