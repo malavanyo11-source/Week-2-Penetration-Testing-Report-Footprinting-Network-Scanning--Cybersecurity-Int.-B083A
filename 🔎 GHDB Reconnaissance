@@ -1,0 +1,8 @@
+Using Google Hacking Database (GHDB), I performed two reconnaissance tasks:
+Task 1 – Exposed Security Cameras
+Using dorks like intitle:"webcamXP" inurl:8080, I found multiple publicly accessible webcams running on default ports.
+Task 2 – Open Mathematics PDF Directories
+Using intitle:index.of "parent directory" mathematics pdf, I located open directories containing downloadable math eBooks.
+Why this matters
+Shows how search engines index misconfigured devices.
+Demonstrates how attackers find open directories and unsecured IoT devices.
