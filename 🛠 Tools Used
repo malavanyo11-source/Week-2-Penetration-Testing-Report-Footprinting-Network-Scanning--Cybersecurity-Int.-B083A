@@ -1,0 +1,10 @@
+WHOIS – Domain registration lookup
+nslookup – DNS resolution
+dnsrecon – DNS enumeration
+WhatWeb – Web technology fingerprinting
+curl -I – HTTP header inspection
+wafw00f – WAF detection
+GHDB – Google hacking reconnaissance
+Maltego – OSINT link analysis
+theHarvester – Email & subdomain enumeration
+Zenmap (Nmap GUI) – Network scanning & topology mapping
