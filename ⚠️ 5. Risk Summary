@@ -1,0 +1,8 @@
+| # | Risk | Evidence | Impact | Level |
+| --- | --- | --- | --- | --- |
+| 1 | Web tech exposed | WordPress version, plugins | Attackers target outdated software | Medium |
+| 2 | Server IP identifiable | nslookup | Helps locate hosting | Low |
+| 3 | HTTP info exposed | curl headers | Aids fingerprinting | Low |
+| 4 | WAF identifiable | ModSecurity | Reveals security architecture | Low |
+| 5 | DNS info exposed | dnsrecon | Helps map infrastructure | Medium |
+| 6 | Multiple LAN hosts | Zenmap | Possible unauthorized devices | Medium |
