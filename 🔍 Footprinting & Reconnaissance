@@ -1,0 +1,12 @@
+I performed detailed reconnaissance on networkwalks.com using six Kali Linux tools.
+Key findings include:
+WHOIS: Registrar = GoDaddy, privacy enabled, HostGator nameservers.
+WhatWeb: WordPress 7.x, WP Download Manager plugin, Apache server, exposed REST API.
+nslookup: Domain resolves to 192.232.216.135.
+curl -I: Revealed headers, cookies, caching, and /wp-json/ endpoint.
+wafw00f: Site is protected by ModSecurity (SpiderLabs) WAF.
+dnsrecon: DNSSEC disabled, MX records, SPF/TXT records, SRV autodiscovery entries.
+Why this matters
+Shows publicly exposed information attackers can use.
+Helps defenders understand their attack surface.
+Reveals DNS, hosting, and technology stack details.
