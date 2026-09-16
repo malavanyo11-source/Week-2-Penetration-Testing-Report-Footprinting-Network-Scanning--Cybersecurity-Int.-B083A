@@ -1,0 +1,12 @@
+I scanned my local subnet 192.168.100.0/24.
+Live hosts discovered
+192.168.100.1 – Router (Huawei)
+192.168.100.3 – Windows PC
+192.168.100.5 – My PC
+192.168.100.6 – VMware host running HTTP/Nessus
+192.168.100.7 – Additional LAN device
+Zenmap topology showed a star network with the router as the central node.
+Why this matters
+Identifies active devices and potential entry points.
+Helps detect unauthorized hosts.
+Builds a clear picture of internal network structure.
