@@ -1,0 +1,8 @@
+Maltego was used to visualize relationships between:
+Domains
+IP addresses
+Name servers
+Mail servers
+Public emails
+Connected subdomains
+This produced a clear graph of the networkwalks.com infrastructure.
